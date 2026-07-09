@@ -8,9 +8,6 @@ Full-Stack Developer | Data Science and Cybersecurity Enthusiast
 Building modern, scalable web applications and solving real-world problems with code.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jawadjb21&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -52,11 +49,6 @@ Building modern, scalable web applications and solving real-world problems with 
 ---
 
 ## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jawadjb21&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadjb21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jawadjb21&theme=tokyonight&hide_border=true" />
