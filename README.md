@@ -83,9 +83,7 @@
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/jawadjb21/jawadjb21/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
