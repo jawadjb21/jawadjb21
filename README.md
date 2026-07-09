@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Full-Stack Developer | Building modern, scalable web applications</h3>
+<h1 align="center">Hi 👋, I'm Jawad Bin Jahangir</h1>
+<h3 align="center">Full-Stack Developer, Data Science and Cybersecurity enthusiast | Building modern, scalable web applications</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/jawadjb21">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
