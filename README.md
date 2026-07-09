@@ -84,11 +84,11 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/jawad-bin-jahangir](https://www.linkedin.com/in/jawad-bin-jahangir/)" target="_blank">
+<a href="https://linkedin.com/in/jawad-bin-jahangir" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jawadjb21">
+<a href="mailto:jawadjb.21@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
