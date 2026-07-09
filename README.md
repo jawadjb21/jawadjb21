@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jawad Bin Jahangir</h1>
+<h1 align="center">Hi, I'm Jawad Bin Jahangir</h1>
 <h3 align="center">Full-Stack Developer, Data Science and Cybersecurity enthusiast | Building modern, scalable web applications</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 Passionate Full-Stack Developer
-- 🌱 Always learning new technologies
-- 🚀 Interested in building scalable web applications
-- ⚡ I enjoy solving real-world problems with code
+-  Passionate Full-Stack Developer
+-  Always learning new technologies
+-  Interested in building scalable web applications
+-  I enjoy solving real-world problems with code
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -54,8 +54,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawadjb21&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadjb21&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -67,21 +65,17 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=jawadjb21&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
 ![snake gif](https://github.com/jawadjb21/jawadjb21/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/jawad-bin-jahangir" target="_blank">
@@ -94,7 +88,3 @@
 </p>
 
 ---
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
