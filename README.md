@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jawad Bin Jahangir</h1>
 <h3 align="center">Full-Stack Developer, Data Science and Cybersecurity enthusiast | Building modern, scalable web applications</h3>
 
-<p align="center">
-  <a href="https://github.com/jawadjb21">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -63,12 +57,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawadjb21&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadjb21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jawadjb21&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -76,7 +70,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jawadjb21&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -90,11 +84,11 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="[https://linkedin.com/in/jawad-bin-jahangir](https://www.linkedin.com/in/jawad-bin-jahangir/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jawadjb21">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
