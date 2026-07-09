@@ -28,16 +28,29 @@ Building modern, scalable web applications and solving real-world problems with 
   <img src="https://skillicons.dev/icons?i=js,python,html,css" />
 </p>
 
-### Frameworks
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### APIs
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### Tools
@@ -45,7 +58,6 @@ Building modern, scalable web applications and solving real-world problems with 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ---
 
 ## GitHub Statistics
