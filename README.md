@@ -25,7 +25,7 @@ Building modern, scalable web applications and solving real-world problems with 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,ts" />
 </p>
 
 ### Frontend
@@ -44,7 +44,7 @@ Building modern, scalable web applications and solving real-world problems with 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
 </p>
 
 ### APIs
